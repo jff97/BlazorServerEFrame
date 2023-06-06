@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffe.EmployeeManager", "WiredBrainCoffe.EmployeeManager\WiredBrainCoffe.EmployeeManager.csproj", "{BF1DA606-FB9B-49C7-B525-CAC0032B3070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1DA606-FB9B-49C7-B525-CAC0032B3070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1DA606-FB9B-49C7-B525-CAC0032B3070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1DA606-FB9B-49C7-B525-CAC0032B3070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1DA606-FB9B-49C7-B525-CAC0032B3070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFB8003-D036-4D80-B73C-79F4D5F562F9}
+	EndGlobalSection
+EndGlobal
