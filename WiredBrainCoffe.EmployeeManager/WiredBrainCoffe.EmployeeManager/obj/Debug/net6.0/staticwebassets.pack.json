@@ -1,60 +1,64 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WiredBrainCoffe.EmployeeManager.bundle.scp.css",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WiredBrainCoffe.EmployeeManager.bundle.scp.css",
       "PackagePath": "staticwebassets\\WiredBrainCoffe.EmployeeManager.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\site.css",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\favicon.ico",
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WiredBrainCoffe.EmployeeManager.Microsoft.AspNetCore.StaticWebAssets.props",

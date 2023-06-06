@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lop/USzOn/BQDka+Yd21nLsXdut9fTFLpnIIx4OSAwk=",
+  "Hash": "DG92AynM0uKWCKcVp/PQmJqyZfoCZo3e6tHCR7Oa1pY=",
   "Source": "WiredBrainCoffe.EmployeeManager",
   "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WiredBrainCoffe.EmployeeManager\\wwwroot",
       "Source": "WiredBrainCoffe.EmployeeManager",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WiredBrainCoffe.EmployeeManager.styles.css",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WiredBrainCoffe.EmployeeManager.styles.css",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "WiredBrainCoffe.EmployeeManager.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WiredBrainCoffe.EmployeeManager.styles.css"
+      "OriginalItemSpec": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WiredBrainCoffe.EmployeeManager.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WiredBrainCoffe.EmployeeManager.bundle.scp.css",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WiredBrainCoffe.EmployeeManager.bundle.scp.css",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "WiredBrainCoffe.EmployeeManager.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WiredBrainCoffe.EmployeeManager.bundle.scp.css"
+      "OriginalItemSpec": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WiredBrainCoffe.EmployeeManager.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\site.css",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\css\\site.css",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\favicon.ico",
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\favicon.ico",
       "SourceId": "WiredBrainCoffe.EmployeeManager",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
       "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\logo.png",
+      "SourceId": "WiredBrainCoffe.EmployeeManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\wwwroot\\",
+      "BasePath": "_content/WiredBrainCoffe.EmployeeManager",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
     }
   ]
 }

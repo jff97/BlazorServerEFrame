@@ -74,12 +74,18 @@ main[b-vvtfz8xdyi] {
 }
 
 .top-row[b-jpwaa6ehgs] {
-    height: 3.5rem;
+    height: 140px;
     background-color: rgba(0,0,0,0.4);
+}
+.logo[b-jpwaa6ehgs] {
+    height: 80px;
+    display: block;
+    margin: auto;
 }
 
 .navbar-brand[b-jpwaa6ehgs] {
     font-size: 1.1rem;
+    font-weight: bold;
 }
 
 .oi[b-jpwaa6ehgs] {

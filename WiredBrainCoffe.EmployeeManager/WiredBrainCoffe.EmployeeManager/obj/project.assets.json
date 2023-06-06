@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager.csproj",
+      "projectUniqueName": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager.csproj",
       "projectName": "WiredBrainCoffe.EmployeeManager",
-      "projectPath": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager.csproj",
+      "projectPath": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager.csproj",
       "packagesPath": "C:\\Users\\Jf10070034\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jf10070034\\Desktop\\learnin\\apis\\netApi\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\",
+      "outputPath": "C:\\source\\repos\\BlazorServerEFrame\\WiredBrainCoffe.EmployeeManager\\WiredBrainCoffe.EmployeeManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jf10070034\\AppData\\Roaming\\NuGet\\NuGet.Config",
