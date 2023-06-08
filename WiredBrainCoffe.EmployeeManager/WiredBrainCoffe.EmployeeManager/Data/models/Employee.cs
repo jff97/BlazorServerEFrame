@@ -12,8 +12,8 @@ namespace WiredBrainCoffe.EmployeeManager.Data.models
         [Required]
         public string? LastName { get; set; }
         public bool IsDeveloper { get; set; }
-        public int? DepartmentId { get; set; }
         [Required]
+        public int? DepartmentId { get; set; }
         public Department? Department { get; set; }
     }
 }
