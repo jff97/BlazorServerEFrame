@@ -109,9 +109,16 @@ else
         var isOk = await JS.InvokeAsync<bool>("confirm", $"Delete employee {employee.FirstName} {employee.LastName}?");
         if (isOk)
         {
-            using var context = ContextFactory.CreateDbContext();
-            context.Employees.Remove(employee);
-            await context.SaveChangesAsync();
+            try
+            {
+                using var context = ContextFactory.CreateDbContext();
+                context.Employees.Remove(employee);
+                await context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                //the employee was allready deleted
+            }
 
             await LoadData();
         }
