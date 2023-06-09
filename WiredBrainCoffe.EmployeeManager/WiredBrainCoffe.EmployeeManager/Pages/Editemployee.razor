@@ -1,0 +1,84 @@
+﻿@page "/employees/edit/{employeeId:int}"
+@inject IDbContextFactory<EmployeeManagerDbContext> ContextFactory
+@inject NavigationManager NavigationManager
+@inject StateContainer StateContainer
+
+<PageTitle>Edit Employee</PageTitle>
+<h1>Edit employee</h1>
+
+@if (Employee is null)
+{
+    <div class="alert alert-danger">
+        Employee with ID @EmployeeId was not found.
+    </div>
+}
+<EmployeeForm Employee="@Employee" 
+    Departments="@Departments" 
+    IsEdit="true" 
+    IsBusy="@IsBusy"
+    OnSubmit="@HandleSubmit"
+    OnCancel="NavigateToOverviewPage"/>
+
+@if (ErrorMessage is not null)
+{
+    <br />
+    <div class="alert alert-danger">@ErrorMessage</div>
+}
+
+@code {
+    [Parameter]
+    public int EmployeeId { get; set; }
+    private Employee? Employee { get; set; }
+    private Department[]? Departments { get; set; }
+    private bool IsBusy { get; set; }
+    private string? ErrorMessage { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        IsBusy = true;
+        try
+        {
+            using var context = ContextFactory.CreateDbContext();
+            Departments = await context.Departments
+                            .AsNoTracking()
+                            .OrderBy(dept => dept.Name)
+                            .ToArrayAsync();
+            Employee = await context.Employees.
+                                FirstOrDefaultAsync(emp => emp.Id == EmployeeId);
+        }
+        finally
+        {
+            IsBusy = false;
+        }
+    }
+
+    private async Task HandleSubmit(bool isValid)
+    {
+        if (Employee is null || IsBusy || !isValid)
+        {
+            ErrorMessage = null;
+            return;
+        }
+        IsBusy = true;
+
+        try
+        {
+            using var context = ContextFactory.CreateDbContext();
+            context.Update(Employee);
+            await context.SaveChangesAsync();
+            NavigateToOverviewPage();
+        }
+        catch(Exception ex)
+        {
+            ErrorMessage = $"Error while saving employee: {ex.Message}";
+        }
+        finally
+        {
+            IsBusy = false;
+        }
+    }
+    private void NavigateToOverviewPage()
+    {
+        NavigationManager.NavigateTo($"/employees/list/{StateContainer.EmployeeOverviewPage}");
+    }
+}

@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1wbG95ZWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/source/repos/BlazorServerEFrame/WiredBrainCoffe.EmployeeManager/WiredBrainCoffe.EmployeeManager/Pages/Editemployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGVtcGxveWVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/source/repos/BlazorServerEFrame/WiredBrainCoffe.EmployeeManager/WiredBrainCoffe.EmployeeManager/Pages/EmployeeOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

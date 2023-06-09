@@ -1,6 +1,7 @@
 ﻿@page "/employees/list/{currentPage:int?}"
 @inject IDbContextFactory<EmployeeManagerDbContext> ContextFactory
 @inject NavigationManager NavigationManager
+@inject StateContainer StateContainer
 
 <PageTitle>Employees</PageTitle>
 
@@ -32,6 +33,7 @@ else
                 <th>LastName</th>
                 <th>Is Developer</th>
                 <th>Department</th>
+                <th>#</th>
             </tr>
         </thead>
         <tbody>
@@ -41,7 +43,12 @@ else
                     <td>@employee.FirstName</td>
                     <td>@employee.LastName</td>
                     <td>@employee.IsDeveloper</td>
-                    <td>@employee.Department?.Name</td>
+                    <td>@employee.Department?.Name</td> 
+                    <td>
+                        <a href="/employees/edit/@employee.Id" class="btn btn-outline-primary">
+                            Edit
+                        </a>
+                    </td>
                 </tr>
             }
         </tbody>
@@ -68,16 +75,17 @@ else
         using var context = ContextFactory.CreateDbContext();
 
         var employeeCount = await context.Employees.CountAsync();
-        TotalPages = (int) Math.Ceiling((double)employeeCount / ItemsPerPage);
-        if (TotalPages == 0)
-        {
-            TotalPages = 1;
-        }
+        TotalPages = employeeCount == 0
+            ? 1
+            : (int)Math.Ceiling((double)employeeCount / ItemsPerPage);
 
         if (CurrentPage > TotalPages)
         {
             NavigationManager.NavigateTo($"/employees/list/{TotalPages}");
         }
+
+        StateContainer.EmployeeOverviewPage = CurrentPage.Value;
+
         var itemsToSkip = (CurrentPage.Value - 1) * ItemsPerPage;
         Employees = await context.Employees
         .Include(emp => emp.Department)
